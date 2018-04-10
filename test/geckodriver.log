@@ -1,0 +1,967 @@
+1523353983330	geckodriver	INFO	geckodriver 0.20.1
+1523353983333	geckodriver	INFO	Listening on 127.0.0.1:57560
+1523354013098	geckodriver	INFO	geckodriver 0.20.1
+1523354013101	geckodriver	INFO	Listening on 127.0.0.1:41917
+1523354024513	geckodriver	INFO	geckodriver 0.20.1
+1523354024517	geckodriver	INFO	Listening on 127.0.0.1:57370
+1523354305676	geckodriver	INFO	geckodriver 0.20.1
+1523354305679	geckodriver	INFO	Listening on 127.0.0.1:44531
+1523354552525	geckodriver	INFO	geckodriver 0.20.1
+1523354552558	geckodriver	INFO	Listening on 127.0.0.1:35307
+1523354587482	geckodriver	INFO	geckodriver 0.20.1
+1523354587486	geckodriver	INFO	Listening on 127.0.0.1:40971
+1523354588489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JztAIgqRVsYI"
+1523354588732	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523354588732	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523354588736	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523354588736	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523354589068	Marionette	INFO	Enabled via --marionette
+
+(firefox:13476): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13476): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13476): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13476): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13476): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13476): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13532): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13532): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13532): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13532): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13532): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13532): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 3345: TypeError: addon is null
+1523354591530	Marionette	INFO	Listening on port 44741
+1523354591598	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:13476): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13476): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13476): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13476): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13476): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13476): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13476): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13476): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13476): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13476): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13476): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13476): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13476): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13476): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1523354684122	geckodriver	INFO	geckodriver 0.20.1
+1523354684126	geckodriver	INFO	Listening on 127.0.0.1:48353
+1523354685128	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.g6ScgVgTxQgc"
+1523354685354	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523354685354	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523354685358	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523354685358	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523354685948	Marionette	INFO	Enabled via --marionette
+
+(firefox:13688): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13688): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13688): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13688): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13688): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13688): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13744): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13744): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13744): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13744): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13744): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:13744): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 3345: TypeError: addon is null
+1523354689920	Marionette	INFO	Listening on port 37669
+1523354689940	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:13688): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13688): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13688): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13688): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13688): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13688): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13688): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13688): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13688): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13688): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13688): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13688): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13688): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13688): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1523355400044	geckodriver	INFO	geckodriver 0.20.1
+1523355400091	geckodriver	INFO	Listening on 127.0.0.1:39713
+1523355401084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Lf096ZABvmrC"
+1523355405882	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523355405882	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523355405918	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523355405918	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523355406972	Marionette	INFO	Enabled via --marionette
+
+(firefox:14387): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14387): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14387): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14387): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14387): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14387): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14445): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14445): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14445): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14445): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14445): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14445): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 3345: TypeError: addon is null
+1523355413048	Marionette	INFO	Listening on port 33058
+1523355413152	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:14387): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14387): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14387): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14387): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14387): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14387): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14387): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14387): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14387): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14387): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14387): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14387): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14387): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14387): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1523355461024	geckodriver	INFO	geckodriver 0.20.1
+1523355461028	geckodriver	INFO	Listening on 127.0.0.1:48619
+1523355462030	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7a0vOM3Hjcyx"
+1523355462254	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523355462256	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523355462258	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523355462258	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523355462580	Marionette	INFO	Enabled via --marionette
+
+(firefox:14589): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14589): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14589): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14589): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14589): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14589): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14645): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14645): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14645): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14645): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14645): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14645): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 3345: TypeError: addon is null
+1523355465196	Marionette	INFO	Listening on port 39070
+1523355465240	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x47000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:14589): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14589): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14589): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14589): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14589): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14589): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14589): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14589): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14589): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14589): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14589): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14589): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14589): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14589): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1523355495713	geckodriver	INFO	geckodriver 0.20.1
+1523355495716	geckodriver	INFO	Listening on 127.0.0.1:34040
+1523355496733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3UIPzDehLbDB"
+1523355496958	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523355496958	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523355496962	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523355496962	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523355497350	Marionette	INFO	Enabled via --marionette
+
+(firefox:14757): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14757): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14757): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14757): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14757): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14757): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14814): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14814): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14814): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14814): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14814): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14814): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 3345: TypeError: addon is null
+1523355499790	Marionette	INFO	Listening on port 36492
+1523355499848	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 14814, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-RdWJtd/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:14757): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14757): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14757): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14757): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14757): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14757): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14757): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14757): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14757): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14757): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14757): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14757): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14757): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14757): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1523355567366	geckodriver	INFO	geckodriver 0.20.1
+1523355567370	geckodriver	INFO	Listening on 127.0.0.1:37108
+1523355568372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xsFbWQictJRI"
+1523355568598	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523355568598	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523355568602	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523355568602	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523355568956	Marionette	INFO	Enabled via --marionette
+
+(firefox:14935): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14935): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14935): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14935): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14935): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14935): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14992): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14992): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14992): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14992): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14992): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:14992): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 3345: TypeError: addon is null
+1523355571466	Marionette	INFO	Listening on port 33132
+1523355571494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523355597251	geckodriver	INFO	geckodriver 0.20.1
+1523355597255	geckodriver	INFO	Listening on 127.0.0.1:36728
+1523355598256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DAVY8VFB3dpV"
+1523355598482	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523355598482	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523355598486	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523355598486	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523355598808	Marionette	INFO	Enabled via --marionette
+
+(firefox:15099): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15099): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15099): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15099): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15099): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15099): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15156): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15156): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15156): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15156): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15156): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15156): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 3345: TypeError: addon is null
+1523355601248	Marionette	INFO	Listening on port 44930
+1523355601270	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:14935): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14935): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14935): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14935): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14935): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14935): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14935): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14935): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14935): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14935): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14935): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14935): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14935): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14935): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:15099): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15099): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15099): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15099): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15099): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15099): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15099): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15099): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15099): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15099): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15099): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15099): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15099): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15099): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1523355648934	geckodriver	INFO	geckodriver 0.20.1
+1523355648937	geckodriver	INFO	Listening on 127.0.0.1:33733
+1523355649039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CYRlgDYKBkUf"
+1523355651456	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523355651456	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523355651584	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523355651584	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523355652308	Marionette	INFO	Enabled via --marionette
+
+(firefox:15321): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15321): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15321): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15321): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15321): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15321): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15377): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15377): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15377): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15377): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15377): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15377): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 3345: TypeError: addon is null
+1523355655834	Marionette	INFO	Listening on port 42023
+1523355655872	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:15321): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15321): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15321): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15321): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15321): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15321): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15321): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15321): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15321): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15321): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15321): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15321): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15321): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15321): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1523355700663	geckodriver	INFO	geckodriver 0.20.1
+1523355700667	geckodriver	INFO	Listening on 127.0.0.1:60824
+1523355701683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MZP2OkpQg0HS"
+1523355701928	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523355701928	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523355701932	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523355701932	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523355702240	Marionette	INFO	Enabled via --marionette
+
+(firefox:15494): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15494): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15494): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15494): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15494): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15494): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15550): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15550): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15550): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15550): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15550): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:15550): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 3345: TypeError: addon is null
+1523355704798	Marionette	INFO	Listening on port 41190
+1523355704892	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:15494): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15494): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15494): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15494): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15494): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15494): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15494): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15494): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15494): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15494): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15494): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15494): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15494): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15494): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1523356938425	geckodriver	INFO	geckodriver 0.20.1
+1523356938479	geckodriver	INFO	Listening on 127.0.0.1:46428
+1523356939465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KF0duZ9ogavi"
+1523356944730	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523356944730	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523356944766	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523356944766	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523356945828	Marionette	INFO	Enabled via --marionette
+
+(firefox:16019): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16019): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16019): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16019): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16019): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16019): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16075): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16075): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16075): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16075): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16075): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16075): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 3345: TypeError: addon is null
+1523356951442	Marionette	INFO	Listening on port 35716
+1523356951522	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:16019): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16019): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16019): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16019): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16019): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16019): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16019): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16019): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16019): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16019): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16019): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16019): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16019): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16019): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1523357087221	geckodriver	INFO	geckodriver 0.20.1
+1523357087224	geckodriver	INFO	Listening on 127.0.0.1:49280
+1523357088226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yIgrHysfq8D5"
+1523357088466	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523357088466	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523357088470	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523357088470	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523357088832	Marionette	INFO	Enabled via --marionette
+
+(firefox:16289): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16289): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16289): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16289): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16289): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16289): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16346): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16346): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16346): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16346): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16346): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16346): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 3345: TypeError: addon is null
+1523357091330	Marionette	INFO	Listening on port 40472
+1523357091344	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:16289): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16289): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16289): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16289): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16289): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16289): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16289): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16289): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16289): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16289): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16289): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16289): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16289): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16289): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1523357119715	geckodriver	INFO	geckodriver 0.20.1
+1523357119719	geckodriver	INFO	Listening on 127.0.0.1:56940
+1523357120731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iqQ2OGGN5IN1"
+1523357120956	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523357120956	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523357120958	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523357120960	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523357121304	Marionette	INFO	Enabled via --marionette
+
+(firefox:16464): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16464): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16464): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16464): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16464): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16464): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16523): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16523): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16523): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16523): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16523): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16523): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 3345: TypeError: addon is null
+1523357123922	Marionette	INFO	Listening on port 43517
+1523357123940	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:16464): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16464): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16464): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16464): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16464): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16464): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16464): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16464): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16464): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16464): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16464): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16464): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16464): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16464): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1523357142163	geckodriver	INFO	geckodriver 0.20.1
+1523357142167	geckodriver	INFO	Listening on 127.0.0.1:41151
+1523357142171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9abOJl6ntbKK"
+1523357142396	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523357142396	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523357142400	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523357142400	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523357143090	Marionette	INFO	Enabled via --marionette
+
+(firefox:16671): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16671): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16671): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16671): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16671): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16671): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16728): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16728): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16728): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16728): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16728): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16728): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 3345: TypeError: addon is null
+1523357145650	Marionette	INFO	Listening on port 38432
+1523357145682	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523357184222	geckodriver	INFO	geckodriver 0.20.1
+1523357184226	geckodriver	INFO	Listening on 127.0.0.1:56628
+1523357184243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CRPcKM2cVvRd"
+1523357184602	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523357184602	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523357184606	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523357184606	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523357184946	Marionette	INFO	Enabled via --marionette
+
+(firefox:16869): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16869): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16869): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16869): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16869): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16869): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16925): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16925): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16925): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16925): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16925): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16925): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 3345: TypeError: addon is null
+1523357187386	Marionette	INFO	Listening on port 41164
+1523357187458	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:16869): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16869): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16869): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16869): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16869): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16869): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16869): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16869): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16869): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16869): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16869): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16869): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16869): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16869): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1523357294316	geckodriver	INFO	geckodriver 0.20.1
+1523357294321	geckodriver	INFO	Listening on 127.0.0.1:37614
+1523357295332	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vtROvOEvEDUr"
+1523357295554	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523357295556	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523357295558	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Install manifest specifies unknown type: null (resource://gre/modules/addons/XPIInstall.jsm:570:11) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:570:11 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1523357295558	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1523357295896	Marionette	INFO	Enabled via --marionette
+
+(firefox:17065): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17065): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17065): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17065): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17065): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17065): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17122): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17122): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17122): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17122): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17122): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17122): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 3345: TypeError: addon is null
+1523357298266	Marionette	INFO	Listening on port 46560
+1523357298342	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:17161): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17161): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17161): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17161): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17161): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:17161): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:17065): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17065): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17065): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17065): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17065): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17065): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17065): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17065): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17065): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17065): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17065): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17065): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17065): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17065): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
